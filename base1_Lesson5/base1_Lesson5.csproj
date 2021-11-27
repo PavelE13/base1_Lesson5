@@ -43,11 +43,105 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="add2_Lesson5\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs" />
+    <Compile Include="add2_Lesson5\Program.cs" />
+    <Compile Include="add2_Lesson5\Properties\AssemblyInfo.cs" />
+    <Compile Include="add3_Lesson5\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs" />
+    <Compile Include="add3_Lesson5\Program.cs" />
+    <Compile Include="add3_Lesson5\Properties\AssemblyInfo.cs" />
+    <Compile Include="add4_Lesson5\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs" />
+    <Compile Include="add4_Lesson5\Program.cs" />
+    <Compile Include="add4_Lesson5\Properties\AssemblyInfo.cs" />
+    <Compile Include="add5_Lesson5\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs" />
+    <Compile Include="add5_Lesson5\Program.cs" />
+    <Compile Include="add5_Lesson5\Properties\AssemblyInfo.cs" />
+    <Compile Include="add6_Lesson5\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs" />
+    <Compile Include="add6_Lesson5\Program.cs" />
+    <Compile Include="add6_Lesson5\Properties\AssemblyInfo.cs" />
+    <Compile Include="base4_Lesson5\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs" />
+    <Compile Include="base4_Lesson5\Program.cs" />
+    <Compile Include="base4_Lesson5\Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="add2_Lesson5\add2_Lesson5.csproj" />
+    <None Include="add2_Lesson5\App.config" />
+    <None Include="add2_Lesson5\bin\Debug\add2_Lesson5.exe.config" />
+    <None Include="add2_Lesson5\obj\Debug\add2_Lesson5.csproj.AssemblyReference.cache" />
+    <None Include="add2_Lesson5\obj\Debug\add2_Lesson5.csproj.CoreCompileInputs.cache" />
+    <None Include="add2_Lesson5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="add3_Lesson5\add3_Lesson5.csproj" />
+    <None Include="add3_Lesson5\App.config" />
+    <None Include="add3_Lesson5\bin\Debug\add3_Lesson5.exe.config" />
+    <None Include="add3_Lesson5\obj\Debug\add3_Lesson5.csproj.AssemblyReference.cache" />
+    <None Include="add3_Lesson5\obj\Debug\add3_Lesson5.csproj.CoreCompileInputs.cache" />
+    <None Include="add3_Lesson5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="add4_Lesson5\add4_Lesson5.csproj" />
+    <None Include="add4_Lesson5\App.config" />
+    <None Include="add4_Lesson5\bin\Debug\add4_Lesson5.exe.config" />
+    <None Include="add4_Lesson5\obj\Debug\add4_Lesson5.csproj.AssemblyReference.cache" />
+    <None Include="add4_Lesson5\obj\Debug\add4_Lesson5.csproj.CoreCompileInputs.cache" />
+    <None Include="add4_Lesson5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="add5_Lesson5\add5_Lesson5.csproj" />
+    <None Include="add5_Lesson5\App.config" />
+    <None Include="add5_Lesson5\bin\Debug\add5_Lesson5.exe.config" />
+    <None Include="add5_Lesson5\obj\Debug\add5_Lesson5.csproj.AssemblyReference.cache" />
+    <None Include="add5_Lesson5\obj\Debug\add5_Lesson5.csproj.CoreCompileInputs.cache" />
+    <None Include="add5_Lesson5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="add6_Lesson5\add6_Lesson5.csproj" />
+    <None Include="add6_Lesson5\App.config" />
+    <None Include="add6_Lesson5\bin\Debug\add6_Lesson5.exe.config" />
+    <None Include="add6_Lesson5\obj\Debug\add6_Lesson5.csproj.AssemblyReference.cache" />
+    <None Include="add6_Lesson5\obj\Debug\add6_Lesson5.csproj.CoreCompileInputs.cache" />
+    <None Include="add6_Lesson5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="App.config" />
+    <None Include="base4_Lesson5\App.config" />
+    <None Include="base4_Lesson5\base4_Lesson5.csproj" />
+    <None Include="base4_Lesson5\bin\Debug\base4_Lesson5.exe.config" />
+    <None Include="base4_Lesson5\obj\Debug\base4_Lesson5.csproj.AssemblyReference.cache" />
+    <None Include="base4_Lesson5\obj\Debug\base4_Lesson5.csproj.CoreCompileInputs.cache" />
+    <None Include="base4_Lesson5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="add2_Lesson5\bin\Debug\add2_Lesson5.exe" />
+    <Content Include="add2_Lesson5\bin\Debug\add2_Lesson5.pdb" />
+    <Content Include="add2_Lesson5\obj\Debug\add2_Lesson5.csproj.FileListAbsolute.txt" />
+    <Content Include="add2_Lesson5\obj\Debug\add2_Lesson5.exe" />
+    <Content Include="add2_Lesson5\obj\Debug\add2_Lesson5.pdb" />
+    <Content Include="add3_Lesson5\bin\Debug\add3_Lesson5.exe" />
+    <Content Include="add3_Lesson5\bin\Debug\add3_Lesson5.pdb" />
+    <Content Include="add3_Lesson5\obj\Debug\add3_Lesson5.csproj.FileListAbsolute.txt" />
+    <Content Include="add3_Lesson5\obj\Debug\add3_Lesson5.exe" />
+    <Content Include="add3_Lesson5\obj\Debug\add3_Lesson5.pdb" />
+    <Content Include="add4_Lesson5\bin\Debug\add4_Lesson5.exe" />
+    <Content Include="add4_Lesson5\bin\Debug\add4_Lesson5.pdb" />
+    <Content Include="add4_Lesson5\obj\Debug\add4_Lesson5.csproj.FileListAbsolute.txt" />
+    <Content Include="add4_Lesson5\obj\Debug\add4_Lesson5.exe" />
+    <Content Include="add4_Lesson5\obj\Debug\add4_Lesson5.pdb" />
+    <Content Include="add5_Lesson5\bin\Debug\add5_Lesson5.exe" />
+    <Content Include="add5_Lesson5\bin\Debug\add5_Lesson5.pdb" />
+    <Content Include="add5_Lesson5\obj\Debug\add5_Lesson5.csproj.FileListAbsolute.txt" />
+    <Content Include="add5_Lesson5\obj\Debug\add5_Lesson5.exe" />
+    <Content Include="add5_Lesson5\obj\Debug\add5_Lesson5.pdb" />
+    <Content Include="add6_Lesson5\bin\Debug\add6_Lesson5.exe" />
+    <Content Include="add6_Lesson5\bin\Debug\add6_Lesson5.pdb" />
+    <Content Include="add6_Lesson5\obj\Debug\add6_Lesson5.csproj.FileListAbsolute.txt" />
+    <Content Include="add6_Lesson5\obj\Debug\add6_Lesson5.exe" />
+    <Content Include="add6_Lesson5\obj\Debug\add6_Lesson5.pdb" />
+    <Content Include="base4_Lesson5\bin\Debug\base4_Lesson5.exe" />
+    <Content Include="base4_Lesson5\bin\Debug\base4_Lesson5.pdb" />
+    <Content Include="base4_Lesson5\obj\Debug\base4_Lesson5.csproj.FileListAbsolute.txt" />
+    <Content Include="base4_Lesson5\obj\Debug\base4_Lesson5.exe" />
+    <Content Include="base4_Lesson5\obj\Debug\base4_Lesson5.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="add2_Lesson5\obj\Debug\TempPE\" />
+    <Folder Include="add3_Lesson5\obj\Debug\TempPE\" />
+    <Folder Include="add4_Lesson5\obj\Debug\TempPE\" />
+    <Folder Include="add5_Lesson5\obj\Debug\TempPE\" />
+    <Folder Include="add6_Lesson5\obj\Debug\TempPE\" />
+    <Folder Include="base4_Lesson5\obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
